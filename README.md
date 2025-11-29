@@ -2,6 +2,8 @@
 
 This repository contains the EFI files for running macOS Tahoe 26.1 on the Asus Chromebox 3 with an Intel i7-8550U CPU
 
+![image](https://github.com/mnzaroo/Chromebox3CN65-Tahoe-EFI/blob/main/CN65Tahoe26.1.png)
+
 ### Specifications
 
 - **Model:** Asus Chromebox 3
