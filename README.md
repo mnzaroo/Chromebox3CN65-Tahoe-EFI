@@ -53,7 +53,7 @@ To run macOS smoothly on the Asus Chromebox 3, it is recommended to replace the 
 
 ### Installation
 
-1. **Prepare macOS USB Installer**: Create a macOS Sequoia 15.4 installer using [macOS Recovery](https://support.apple.com/en-us/HT201372) or from a working macOS environment.
+1. **Prepare macOS USB Installer**: Create a macOS Tahoe 26.1 installer using [macOS Recovery](https://support.apple.com/en-us/HT201372) or from a working macOS environment.
 
 2. **Copy EFI Folder**: After creating the USB installer, replace the EFI folder on the USB drive with the one from this repository.
 
